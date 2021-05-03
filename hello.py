@@ -1,1 +1,1 @@
-print(josh.kao.kaod)
+print(josh.kao.josh)
